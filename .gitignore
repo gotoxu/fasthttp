@@ -1,3 +1,6 @@
 tags
 *.pprof
 *.fasthttp.gz
+
+vendor/
+Gopkg.*
